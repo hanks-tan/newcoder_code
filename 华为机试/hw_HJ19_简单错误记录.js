@@ -47,5 +47,3 @@ let test = 'D:\\zwtymj\\xccb\\ljj\\cqzlyaszjvlsjmkwoqijggmybr 645;' +
 'D:\\zwtymj\\xccb\\ljj\\cqzlyaszjvlsjmkwoqijggmybr 645;' 
 
 fn(test.split(';'))
-
-XXX
