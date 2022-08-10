@@ -27,10 +27,6 @@ const fn = (lines) => {
     if (count) {
       errorMap.set(row, count + 1)
     } else {
-      // if (errorMap.size >= maxError) {
-      //   let top = keys.shift()
-      //   errorMap.delete(top)
-      // } 
       errorMap.set(row, 1)
       keys.push(row)
     }
