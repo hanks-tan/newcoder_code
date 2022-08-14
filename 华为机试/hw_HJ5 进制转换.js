@@ -12,15 +12,16 @@ const fn = (data) => {
   let n = 0
   for(let i = a.length - 1, j = 0; i >= 0; i--) {
     const c = a[i]
-    let m = parseInt(c) ? parseInt(c) : map[c]
+    let m = parseInt(c) > -1? parseInt(c) : map[c]
     if (i === a.length - 1) {
       n = m
     } else {
-      n += 16 * Math.pow(m, j)
+      n += m * Math.pow(16, j)
     }
     j += 1
   }
   return n
 }
 
-console.log(fn('0xBA'))
+// console.log(fn('0xBA'))
+console.log(fn('0x1504'))

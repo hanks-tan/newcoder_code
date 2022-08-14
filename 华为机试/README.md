@@ -26,6 +26,12 @@
 [题解]()
 [测试用例]()
 
+
+## HJ6 质数因子 ![](https://img.shields.io/badge/已完成-√-success)
+[官方地址](https://www.nowcoder.com/practice/196534628ca6490ebce2e336b47b3607?tpId=37&tqId=21229&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
+[题解]()
+[测试用例]()
+
 ## HJ8 合并表记录 ![](https://img.shields.io/badge/已完成-√-success)
 [官方地址](https://www.nowcoder.com/practice/de044e89123f4a7482bd2b214a685201?tpId=37&tqId=21231&rp=1&ru=/exam/oj/ta&qru=/exam/oj/ta&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=undefined&judgeStatus=undefined&tags=&title=)
 [题解]() 
